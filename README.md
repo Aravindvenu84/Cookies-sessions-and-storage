@@ -1,4 +1,3 @@
-
 # 🍪 Cookies, Sessions & Browser Storage
 
 This guide explains **cookies**, **browser storage**, and authentication state management using **server-side sessions** and **JWTs**.
